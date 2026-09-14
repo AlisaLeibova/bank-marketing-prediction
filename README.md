@@ -147,7 +147,7 @@ Python, pandas, scikit-learn, XGBoost, Hyperopt, SHAP, Plotly, Matplotlib, Seabo
 
 ```
 ├── notebooks/
-│   └── bank_marketing_analysis.ipynb
+│   └── Mid_term_Project_Bank_deposit_prediction_.ipynb
 ├── Images/
 │   ├── Class inbalance .png
 │   ├── Correlation matrix.png
