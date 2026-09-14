@@ -84,15 +84,19 @@
 
 ## Основні графіки
 ![Дисбаланс класів](Images/Class%20inbalance%20.png)
+
 *Дисбаланс класів: ≈11.3% "yes" проти ≈88.7% "no"*
 
-![Кореляційна матриця](images/correlation_matrix.png)
+![Кореляційна матриця](Images/Correlation%20matrix.png)
+
 *Мультиколінеарність макроекономічних ознак (emp.var.rate, euribor3m, nr.employed — кореляція до 0.97)*
 
-![Feature Importance](images/feature_importance.png)
+![Важливість ознак](Images/feature%20importance.png)
+
 *Топ-15 найважливіших ознак фінальної моделі*
 
-![SHAP Summary Plot](images/shap_summary.png)
+![SHAP аналіз](Images/SHAP.png)
+
 *Напрямок і сила впливу ознак на передбачення*
 
 ## Найважливіші ознаки (SHAP + Feature Importance)
