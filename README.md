@@ -137,7 +137,7 @@
 
 ## Дані
 
-Використано датасет **Bank Marketing** (UCI Machine Learning Repository). Дані не включені в репозиторій через розмір — завантажте файл та розмістіть у папці `data/` для відтворення результатів.
+Використано датасет **Bank Marketing** (UCI Machine Learning Repository).
 
 ## Технології
 
@@ -148,11 +148,11 @@ Python, pandas, scikit-learn, XGBoost, Hyperopt, SHAP, Plotly, Matplotlib, Seabo
 ```
 ├── notebooks/
 │   └── bank_marketing_analysis.ipynb
-├── data/
-│   └── README.md
-├── images/
-│   └── (скріншоти графіків)
+├── Images/
+│   ├── Class inbalance .png
+│   ├── Correlation matrix.png
+│   ├── SHAP.png
+│   └── feature importance.png
 ├── README.md
 └── requirements.txt
-```
 ```
